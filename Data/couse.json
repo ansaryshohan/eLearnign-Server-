@@ -5,6 +5,7 @@
     "price": 99.95,
     "description": "In this course you will learn to master React 16.8+ concepts including how to create a Flux pattern using the Context API with the useContext and useReducer hooks. We will also build a full stack MERN application with a custom Express backend API that uses JWT (JSON Web Token) for authentication. In addition, we will also create a project that uses Redux.",
     "category": "Web Development",
+    "category_id": 2,
     "image": "https://img.freepik.com/free-photo/web-design-concept-with-drawings_1134-77.jpg?w=826&t=st=1670949526~exp=1670950126~hmac=9a161746270e85a154c3e152093bac8059eb8e2fff76113fe871d2d700ee2db1",
     "rating": {
       "rate": 4.9,
@@ -25,6 +26,7 @@
     "price": 29.99,
     "description": "Everything you need to become a hirable WordPress Developer building custom themes and plugins.",
     "category": "Web Development",
+    "category_id": 2,
     "image": "https://img.freepik.com/free-vector/flat-design-content-management-system-illustration_23-2148825230.jpg?w=740&t=st=1670950585~exp=1670951185~hmac=85e31c3cacd45b6669b34724c9468f262f4b6d29dec94e4b86938168983cce78",
     "rating": {
       "rate": 4.1,
@@ -44,6 +46,7 @@
     "price": 35.99,
     "description": "You'll learn all the fundamentals of Front-End Web Development and how you can Use them to start creating websites!.",
     "category": "Web Development",
+    "category_id": 2,
     "image": "https://img.freepik.com/free-vector/business-teamwork-with-computer-website_24877-54754.jpg?w=740&t=st=1670951291~exp=1670951891~hmac=691d5be297d7f5f9f63af2c9d8fa96506e9f34c19b272fda2e7ffad83cacfdc7",
     "rating": {
       "rate": 4.7,
@@ -65,6 +68,7 @@
     "price": 25.99,
     "description": "Learn to master Laravel to make advanced applications like the real CMS app we build on this course.",
     "category": "Web Development",
+    "category_id": 2,
     "image": "https://images.unsplash.com/photo-1599507593548-0187ac4043c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
     "rating": {
       "rate": 4.1,
@@ -84,6 +88,7 @@
     "price": 39.99,
     "description": "Make the right decision! Learn the pros and cons of Shopify and Woocommerce, and decide which is best for you.",
     "category": "Web Development",
+    "category_id": 2,
     "image": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=826&t=st=1670953778~exp=1670954378~hmac=2193a22696ebfdb995d710e3bea84d475693ff4436b13e7690273d3cde6b3bc1",
     "rating": {
       "rate": 4.6,
@@ -103,6 +108,7 @@
     "price": 69.99,
     "description": "Specially designed for BEGINNERS who don't have any knowledge about programming & want to learn C++ from scratch.",
     "category": "Programming Languages",
+    "category_id": 3,
     "image": "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "rating": {
       "rate": 4.7,
@@ -122,6 +128,7 @@
     "price": 99.99,
     "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
     "category": "Programming Languages",
+    "category_id": 3,
     "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
     "rating": {
       "rate": 4.7,
@@ -142,6 +149,7 @@
     "price": 79.99,
     "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
     "category": "Programming Languages",
+    "category_id": 3,
     "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "rating": {
       "rate": 4.9,
@@ -161,6 +169,7 @@
     "price": 35,
     "description": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
     "category": "Programming Languages",
+    "category_id": 3,
     "image": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "rating": {
       "rate": 4.3,
@@ -182,6 +191,7 @@
     "price": 39.99,
     "description": "A comprehensive introduction to coding with the Ruby programming language. Complete beginners welcome!",
     "category": "Programming Languages",
+    "category_id": 3,
     "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
     "rating": {
       "rate": 4.5,
@@ -200,6 +210,7 @@
     "price": 49,
     "description": "Learn actionable and effective SEO from professionals that have been getting results for over 17 years..",
     "category": "Digital Marketing",
+    "category_id": 5,
     "image": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?w=740&t=st=1670957189~exp=1670957789~hmac=ba11d07e2eefb0eae295bc7a898c5e307d7f034f9cb5ecfecc4ac1f703f802e9",
     "rating": {
       "rate": 4.8,
@@ -219,6 +230,7 @@
     "price": 34,
     "description": "This course method is used by Tesla, Walmart, and other leading organizations. Be able to get results from your Facebook Ads!",
     "category": "Digital Marketing",
+    "category_id": 5,
     "image": "https://images.unsplash.com/photo-1636114673156-052a83459fc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "rating": {
       "rate": 4.8,
@@ -238,6 +250,7 @@
     "price": 59.99,
     "description": "Grow your brand & get more customers with real-world YouTube video marketing techniques: YouTube Ads, funnels, SEO+",
     "category": "Digital Marketing",
+    "category_id": 5,
     "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
     "rating": {
       "rate": 4.9,
@@ -257,6 +270,7 @@
     "price": 49.99,
     "description": "Google Ads: Master PPC, Remarketing, Display Campaigns, Search Campaigns, YouTube Ads from Basic to Advanced.",
     "category": "Digital Marketing",
+    "category_id": 5,
     "image": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "rating": {
       "rate": 4.2,
@@ -277,6 +291,7 @@
     "price": 56.99,
     "description": "This Adobe Photoshop Essentials course will teach you Photoshop Retouching as well as Photoshop for graphic design.",
     "category": "Graphic Design",
+    "category_id": 4,
     "image": "https://img.freepik.com/free-vector/designer-life-concept-illustration_114360-1537.jpg?w=740&t=st=1670958409~exp=1670959009~hmac=5d5ff7c0628c3902e6923dfb9a45930656234d0006c7ae885f4f161ab89313e9",
     "rating": {
       "rate": 4.6,
@@ -296,6 +311,8 @@
     "title": "UX Research & UI Design",
     "price": 49.95,
     "description": "A complete design education for product designers: Research the user experience, then design a great user interface",
+    "category": "Graphic Design",
+    "category_id": 4,
     "image": "https://img.freepik.com/free-vector/isometric-ui-ux-background_23-2149047261.jpg?w=826&t=st=1670958723~exp=1670959323~hmac=0208e0a306fc79525a3f1bb1eb673b92a54e7b0526f05787b8465e3170bc00c5",
     "rating": {
       "rate": 4.9,
@@ -315,6 +332,8 @@
     "title": "Figma UI UX Design Essentials",
     "price": 39.99,
     "description": "Use Figma to get a job in UI Design, User Interface, User Experience design, UX Design & Web Design",
+    "category": "Graphic Design",
+    "category_id": 4,
     "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
     "rating": {
       "rate": 4.5,
@@ -335,6 +354,7 @@
     "price": 29.85,
     "description": "Learn how to become an Interaction Design Specialist along with Wireframing fundamentals and boost your career",
     "category": "Graphic Design",
+    "category_id": 4,
     "image": "https://img.freepik.com/free-vector/interaction-design-concept-illustration_114360-1432.jpg?w=740&t=st=1670958966~exp=1670959566~hmac=e7771395efec661835c2a0362027d0cf5cb4b289be416600a44905a58a5c038c",
     "rating": {
       "rate": 4.7,
@@ -354,6 +374,8 @@
     "title": "Microsoft Excel - Data Analysis",
     "price": 27.95,
     "description": "Master Excel pivots & learn data analysis w/ advanced Excel cases from a top Excel & business intelligence instructor",
+    "category": "Data Entry",
+    "category_id": 6,
     "image": "https://images.unsplash.com/photo-1658203897339-0b8c64a42fba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=862&q=80",
     "rating": {
       "rate": 4.5,
@@ -374,6 +396,7 @@
     "price": 12.99,
     "description": "Rock Star Virtual Assistant Training: Create an online business + become a freelancing virtual professional in any field",
     "category": "Data Entry",
+    "category_id": 6,
     "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
     "rating": {
       "rate": 4.6,

@@ -13,16 +13,16 @@ app.get('/categories', (req, res) => {
   res.send(categoryData)
 });
 
+app.get('/courses/1',(req,res)=>{
+  res.send(courseData)
+})
+
 app.get('/courses/:categoryID',(req,res)=>{
   const Id= req.params.categoryID;
   console.log(Id)
   const categoryDataSet= courseData?.filter(course=>{return course?.category_id == Id});
   // console.log(categoryDataSet);
-  if(Id===1){res.send(courseData)}
-  else {
-    res.send(categoryDataSet)
-  }
-  ;
+   res.send(categoryDataSet)
 })
 
 app.get('/courses',(req,res)=>{ res.send(courseData)})

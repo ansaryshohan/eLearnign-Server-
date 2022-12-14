@@ -1,0 +1,391 @@
+[
+  {
+    "id": 1,
+    "title": "MERN Full Stack Development",
+    "price": 99.95,
+    "description": "In this course you will learn to master React 16.8+ concepts including how to create a Flux pattern using the Context API with the useContext and useReducer hooks. We will also build a full stack MERN application with a custom Express backend API that uses JWT (JSON Web Token) for authentication. In addition, we will also create a project that uses Redux.",
+    "category": "Web Development",
+    "image": "https://img.freepik.com/free-photo/web-design-concept-with-drawings_1134-77.jpg?w=826&t=st=1670949526~exp=1670950126~hmac=9a161746270e85a154c3e152093bac8059eb8e2fff76113fe871d2d700ee2db1",
+    "rating": {
+      "rate": 4.9,
+      "count": 120
+    },
+    "bullet-Points": [
+      "React Fundamentals (Components, props, state, etc)",
+      "React Hooks (useState, useEffect, useContext, useReducer, useRef) in real projects",
+      "Context API & App Level State",
+      "MERN - MongoDB, Express React, Node",
+      "Build a Custom API With JWT Authentication",
+      "much more"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "WordPress Theme Development",
+    "price": 29.99,
+    "description": "Everything you need to become a hirable WordPress Developer building custom themes and plugins.",
+    "category": "Web Development",
+    "image": "https://img.freepik.com/free-vector/flat-design-content-management-system-illustration_23-2148825230.jpg?w=740&t=st=1670950585~exp=1670951185~hmac=85e31c3cacd45b6669b34724c9468f262f4b6d29dec94e4b86938168983cce78",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    },
+    "bullet-Points": [
+      "Create custom responsive WordPress themes from scratch and become a top-level WordPress theme developer",
+      "Learn how to transition from classic themes to block themes using the json file",
+      "Learn how to use APIs like Theme Customizer, the new Gutenberg editor, security, theme translation, and more",
+      "Learn how to migrate any site to a live server",
+      "much more"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Modern Front-End Web Development",
+    "price": 35.99,
+    "description": "You'll learn all the fundamentals of Front-End Web Development and how you can Use them to start creating websites!.",
+    "category": "Web Development",
+    "image": "https://img.freepik.com/free-vector/business-teamwork-with-computer-website_24877-54754.jpg?w=740&t=st=1670951291~exp=1670951891~hmac=691d5be297d7f5f9f63af2c9d8fa96506e9f34c19b272fda2e7ffad83cacfdc7",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    },
+    "bullet-Points": [
+      "HTML5 Basics to Advance",
+      "CSS3 Basics to Advance",
+      "JavaScript Basics to Advance",
+      "DOM",
+      "Bootstrap 4 Basics",
+      "Visual Studio Code (Text Editor)",
+      "much more"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "PHP and Laravel",
+    "price": 25.99,
+    "description": "Learn to master Laravel to make advanced applications like the real CMS app we build on this course.",
+    "category": "Web Development",
+    "image": "https://images.unsplash.com/photo-1599507593548-0187ac4043c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "rating": {
+      "rate": 4.1,
+      "count": 430
+    },
+    "bullet-Points": [
+      "Learn to build applications using laravel",
+      "You will learn how use Laravel",
+      "You will learn how to create and use Controllers and what they are",
+      "You will learn to use the templating engine Blade",
+      "much more"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Elementor And WooCommerce",
+    "price": 39.99,
+    "description": "Make the right decision! Learn the pros and cons of Shopify and Woocommerce, and decide which is best for you.",
+    "category": "Web Development",
+    "image": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=826&t=st=1670953778~exp=1670954378~hmac=2193a22696ebfdb995d710e3bea84d475693ff4436b13e7690273d3cde6b3bc1",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    },
+    "bullet-Points": [
+      "Install Wordpress on your local computer so you can learn without paying for a domain and webhosting.",
+      "How to become a Wordpress and Elementor Expert. Create beautiful pages, post and portfolio items using this amazing editor.",
+      "How to create a website form scratch using Wordpress and the ElementorTheme",
+      "You will learn to build eCommerce websites",
+      "much more"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "C++ ",
+    "price": 69.99,
+    "description": "Specially designed for BEGINNERS who don't have any knowledge about programming & want to learn C++ from scratch.",
+    "category": "Programming Languages",
+    "image": "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "rating": {
+      "rate": 4.7,
+      "count": 70
+    },
+    "bullet-Points": [
+      "The fundamentals of C++.",
+      "Write fast and powerful C++ programs, compile the source code, and create executable files.",
+      "Learn Object-Oriented Programming Design Concept in C++ Perfectly with Examples",
+      "Learn Basic concepts of Programming C++, OOPs, STL, Recursion",
+      "much more"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Python",
+    "price": 99.99,
+    "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+    "category": "Programming Languages",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+    "rating": {
+      "rate": 4.7,
+      "count": 400
+    },
+    "bullet-Points": [
+      "You will learn how to leverage the power of Python to solve tasks.",
+      "Learn advanced Python features, like the collections module and how to work with timestamps!",
+      "Get an understanding of how to create GUIs in the Jupyter Notebook system!",
+      "Learn to use Object Oriented Programming with classes!",
+      "You will build games and programs that use Python libraries.",
+      "much more"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Java",
+    "price": 79.99,
+    "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+    "category": "Programming Languages",
+    "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "rating": {
+      "rate": 4.9,
+      "count": 100
+    },
+    "bullet-Points": [
+      "Learn the core Java skills needed to apply for Java developer positions in just 14 hours.",
+      "Be able to demonstrate your understanding of Java to future employers.",
+      "Acquire essential java basics for transitioning to the Spring Framework, Java EE, Android development and more.",
+      "Be able to sit for and pass the Oracle Java Certificate exam if you choose.",
+      "much more"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "PHP",
+    "price": 35,
+    "description": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+    "category": "Programming Languages",
+    "image": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "rating": {
+      "rate": 4.3,
+      "count": 203
+    },
+    "bullet-Points": [
+      "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla.",
+      "You will learn MySQL",
+      "You will learn how to use Databases",
+      "Object Oriented Programming",
+      "You will learn about PHP security",
+      "You will learn to create pagination",
+      "much more"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Ruby",
+    "price": 39.99,
+    "description": "A comprehensive introduction to coding with the Ruby programming language. Complete beginners welcome!",
+    "category": "Programming Languages",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    "rating": {
+      "rate": 4.5,
+      "count": 470
+    },
+    "bullet-Points": [
+      "Learn to program in the Ruby programming language.",
+      "Solve popular coding challenges and algorithms with Ruby.",
+      "Dive into object-oriented programming including classes and more",
+      "Master common Ruby objects like Strings, Arrays, Hashes, and more"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The Complete SEO Course",
+    "price": 49,
+    "description": "Learn actionable and effective SEO from professionals that have been getting results for over 17 years..",
+    "category": "Digital Marketing",
+    "image": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?w=740&t=st=1670957189~exp=1670957789~hmac=ba11d07e2eefb0eae295bc7a898c5e307d7f034f9cb5ecfecc4ac1f703f802e9",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    },
+    "bullet-Points": [
+      "Complete SEO training from an industry veteran with over 16 years experience",
+      "An in-depth understanding of how search engines crawl, render and index websites.",
+      "In-depth keyword research tools and techniques to discover new opportunities.",
+      "How to forecast and assign a value to organic SEO traffic.",
+      "And More..."
+    ]
+  },
+  {
+    "id": 12,
+    "title": " Facebook Ads: Facebook / Instagram",
+    "price": 34,
+    "description": "This course method is used by Tesla, Walmart, and other leading organizations. Be able to get results from your Facebook Ads!",
+    "category": "Digital Marketing",
+    "image": "https://images.unsplash.com/photo-1636114673156-052a83459fc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    },
+    "bullet-Points": [
+      "Develop the full range of skills to launch and manage Facebook Ads like a Pro",
+      "Use advanced features of Facebook Advertising like lead ads and app install ads",
+      "Create custom and lookalike audiences for Facebook using external data (e.g. MailChimp, an email list, or a CRM system)",
+      "Target specific Facebook users using demographics, interests, and geography",
+      "Employ pixel and event tracking with your Facebook Ads for website and mobile app retargeting"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "YouTube Marketing",
+    "price": 59.99,
+    "description": "Grow your brand & get more customers with real-world YouTube video marketing techniques: YouTube Ads, funnels, SEO+",
+    "category": "Digital Marketing",
+    "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "rating": {
+      "rate": 4.9,
+      "count": 250
+    },
+    "bullet-Points": [
+      "Grow your own business & brand with YouTube.",
+      "Increase your revenue & get more customers with YouTube.",
+      "Learn real-world marketing funnels that can be set up with YouTube",
+      "Create YouTube Ad campaigns to promote your brand & products",
+      "And More..."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Google Ads Masterclass ",
+    "price": 49.99,
+    "description": "Google Ads: Master PPC, Remarketing, Display Campaigns, Search Campaigns, YouTube Ads from Basic to Advanced.",
+    "category": "Digital Marketing",
+    "image": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "rating": {
+      "rate": 4.2,
+      "count": 140
+    },
+    "bullet-Points": [
+      "Learn Google Ads from the basics (from zero) to advanced techniques.",
+      "Create Display Ads, showing your ads on Google's partner sites",
+      "Create Search Ads, placing your ads on the first page of Google in front of millions of people",
+      "Optimize your Target audience for Google Ads",
+      "Optimize your ads by increasing your click rates by up to 30%",
+      "And More..."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Adobe Photoshop CC-Training",
+    "price": 56.99,
+    "description": "This Adobe Photoshop Essentials course will teach you Photoshop Retouching as well as Photoshop for graphic design.",
+    "category": "Graphic Design",
+    "image": "https://img.freepik.com/free-vector/designer-life-concept-illustration_114360-1537.jpg?w=740&t=st=1670958409~exp=1670959009~hmac=5d5ff7c0628c3902e6923dfb9a45930656234d0006c7ae885f4f161ab89313e9",
+    "rating": {
+      "rate": 4.6,
+      "count": 235
+    },
+    "bullet-Points": [
+      "You will be able to start earning money from your Photoshop Skills..",
+      "You will have over 20 of your own projects to add to your portfolio.",
+      "Create amazing typography.",
+      "You will retouch photographs like a professional.",
+      "Build a flyerj",
+      "And More..."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "UX Research & UI Design",
+    "price": 49.95,
+    "description": "A complete design education for product designers: Research the user experience, then design a great user interface",
+    "image": "https://img.freepik.com/free-vector/isometric-ui-ux-background_23-2149047261.jpg?w=826&t=st=1670958723~exp=1670959323~hmac=0208e0a306fc79525a3f1bb1eb673b92a54e7b0526f05787b8465e3170bc00c5",
+    "rating": {
+      "rate": 4.9,
+      "count": 340
+    },
+    "bullet-Points": [
+      "Critical Thinking",
+      "User Interface Design",
+      "User Experience Research",
+      "History of Digital Product Design",
+      "Design Processes",
+      "And More..."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Figma UI UX Design Essentials",
+    "price": 39.99,
+    "description": "Use Figma to get a job in UI Design, User Interface, User Experience design, UX Design & Web Design",
+    "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "rating": {
+      "rate": 4.5,
+      "count": 679
+    },
+    "bullet-Points": [
+      "Critical Thinking",
+      "User Interface Design",
+      "User Experience Research",
+      "History of Digital Product Design",
+      "Design Processes",
+      "And More..."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Interaction Design Specialist",
+    "price": 29.85,
+    "description": "Learn how to become an Interaction Design Specialist along with Wireframing fundamentals and boost your career",
+    "category": "Graphic Design",
+    "image": "https://img.freepik.com/free-vector/interaction-design-concept-illustration_114360-1432.jpg?w=740&t=st=1670958966~exp=1670959566~hmac=e7771395efec661835c2a0362027d0cf5cb4b289be416600a44905a58a5c038c",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    },
+    "bullet-Points": [
+      "Understand the fundamentals of Interaction Design",
+      "Create Wire Frames before creating Web Sites",
+      "Think like a Designer",
+      "Learn the principles of Interaction Design",
+      "Optimize your design by increasing your design sense",
+      "And More..."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Microsoft Excel - Data Analysis",
+    "price": 27.95,
+    "description": "Master Excel pivots & learn data analysis w/ advanced Excel cases from a top Excel & business intelligence instructor",
+    "image": "https://images.unsplash.com/photo-1658203897339-0b8c64a42fba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=862&q=80",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    },
+    "bullet-Points": [
+      "Take your data analysis skills from ZERO to PRO with Excel Pivot Tables",
+      "Learn how to use Pivot Tables and Pivot Charts to streamline and absolutely revolutionize your workflow in Excel",
+      "Master unique Pivot Table tips, tools and case studies that you won't find in ANY other course, guaranteed",
+      "Explore fun, interactive, and highly effective lessons from a best-selling Excel instructor",
+      "Get LIFETIME access to project files, quizzes, homework exercises, and 1-on-1 expert support",
+      "Test your skills with 10 real-world Pivot Table case studies (weather, shark attacks, wine tastings, burrito ratings, and more!)."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Virtual Assistant Training",
+    "price": 12.99,
+    "description": "Rock Star Virtual Assistant Training: Create an online business + become a freelancing virtual professional in any field",
+    "category": "Data Entry",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 145
+    },
+    "bullet-Points": [
+      "Skills and tools you need to be a successful professional virtual assistant",
+      "How to set your price and market yourself to your ideal clients/employers (find the best jobs)",
+      "Email, chat, phone support and social media management tools and skills",
+      "Organizational, management, productivity and time management best practices",
+      "How to ace your interviews and get the best jobs",
+      "Virtual assistant self care and work-life balance."
+    ]
+  }
+]

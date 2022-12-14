@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "All Courses"
+  },
+  {
+    "id": 2,
+    "category": "Web Development"
+  },
+  {
+    "id": 3,
+    "category": "Programming Language"
+  },
+  {
+    "id": 4,
+    "category": "Graphic Design"
+  },
+  {
+    "id": 5,
+    "category": "Digital Marketing"
+  },
+  {
+    "id": 6,
+    "category": "Data Entry"
+  }
+]

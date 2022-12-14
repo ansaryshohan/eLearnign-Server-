@@ -11,7 +11,7 @@
       "rate": 4.9,
       "count": 120
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "React Fundamentals (Components, props, state, etc)",
       "React Hooks (useState, useEffect, useContext, useReducer, useRef) in real projects",
       "Context API & App Level State",
@@ -32,7 +32,7 @@
       "rate": 4.1,
       "count": 259
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Create custom responsive WordPress themes from scratch and become a top-level WordPress theme developer",
       "Learn how to transition from classic themes to block themes using the json file",
       "Learn how to use APIs like Theme Customizer, the new Gutenberg editor, security, theme translation, and more",
@@ -52,7 +52,7 @@
       "rate": 4.7,
       "count": 500
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "HTML5 Basics to Advance",
       "CSS3 Basics to Advance",
       "JavaScript Basics to Advance",
@@ -74,7 +74,7 @@
       "rate": 4.1,
       "count": 430
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Learn to build applications using laravel",
       "You will learn how use Laravel",
       "You will learn how to create and use Controllers and what they are",
@@ -94,7 +94,7 @@
       "rate": 4.6,
       "count": 400
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Install Wordpress on your local computer so you can learn without paying for a domain and webhosting.",
       "How to become a Wordpress and Elementor Expert. Create beautiful pages, post and portfolio items using this amazing editor.",
       "How to create a website form scratch using Wordpress and the ElementorTheme",
@@ -114,7 +114,7 @@
       "rate": 4.7,
       "count": 70
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "The fundamentals of C++.",
       "Write fast and powerful C++ programs, compile the source code, and create executable files.",
       "Learn Object-Oriented Programming Design Concept in C++ Perfectly with Examples",
@@ -134,7 +134,7 @@
       "rate": 4.7,
       "count": 400
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "You will learn how to leverage the power of Python to solve tasks.",
       "Learn advanced Python features, like the collections module and how to work with timestamps!",
       "Get an understanding of how to create GUIs in the Jupyter Notebook system!",
@@ -155,7 +155,7 @@
       "rate": 4.9,
       "count": 100
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Learn the core Java skills needed to apply for Java developer positions in just 14 hours.",
       "Be able to demonstrate your understanding of Java to future employers.",
       "Acquire essential java basics for transitioning to the Spring Framework, Java EE, Android development and more.",
@@ -175,7 +175,7 @@
       "rate": 4.3,
       "count": 203
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla.",
       "You will learn MySQL",
       "You will learn how to use Databases",
@@ -197,7 +197,7 @@
       "rate": 4.5,
       "count": 470
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Learn to program in the Ruby programming language.",
       "Solve popular coding challenges and algorithms with Ruby.",
       "Dive into object-oriented programming including classes and more",
@@ -216,7 +216,7 @@
       "rate": 4.8,
       "count": 319
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Complete SEO training from an industry veteran with over 16 years experience",
       "An in-depth understanding of how search engines crawl, render and index websites.",
       "In-depth keyword research tools and techniques to discover new opportunities.",
@@ -236,7 +236,7 @@
       "rate": 4.8,
       "count": 400
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Develop the full range of skills to launch and manage Facebook Ads like a Pro",
       "Use advanced features of Facebook Advertising like lead ads and app install ads",
       "Create custom and lookalike audiences for Facebook using external data (e.g. MailChimp, an email list, or a CRM system)",
@@ -256,7 +256,7 @@
       "rate": 4.9,
       "count": 250
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Grow your own business & brand with YouTube.",
       "Increase your revenue & get more customers with YouTube.",
       "Learn real-world marketing funnels that can be set up with YouTube",
@@ -276,7 +276,7 @@
       "rate": 4.2,
       "count": 140
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Learn Google Ads from the basics (from zero) to advanced techniques.",
       "Create Display Ads, showing your ads on Google's partner sites",
       "Create Search Ads, placing your ads on the first page of Google in front of millions of people",
@@ -297,7 +297,7 @@
       "rate": 4.6,
       "count": 235
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "You will be able to start earning money from your Photoshop Skills..",
       "You will have over 20 of your own projects to add to your portfolio.",
       "Create amazing typography.",
@@ -318,7 +318,7 @@
       "rate": 4.9,
       "count": 340
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Critical Thinking",
       "User Interface Design",
       "User Experience Research",
@@ -339,7 +339,7 @@
       "rate": 4.5,
       "count": 679
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Critical Thinking",
       "User Interface Design",
       "User Experience Research",
@@ -360,7 +360,7 @@
       "rate": 4.7,
       "count": 130
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Understand the fundamentals of Interaction Design",
       "Create Wire Frames before creating Web Sites",
       "Think like a Designer",
@@ -381,7 +381,7 @@
       "rate": 4.5,
       "count": 146
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Take your data analysis skills from ZERO to PRO with Excel Pivot Tables",
       "Learn how to use Pivot Tables and Pivot Charts to streamline and absolutely revolutionize your workflow in Excel",
       "Master unique Pivot Table tips, tools and case studies that you won't find in ANY other course, guaranteed",
@@ -402,7 +402,7 @@
       "rate": 4.6,
       "count": 145
     },
-    "bullet-Points": [
+    "bullet_Points": [
       "Skills and tools you need to be a successful professional virtual assistant",
       "How to set your price and market yourself to your ideal clients/employers (find the best jobs)",
       "Email, chat, phone support and social media management tools and skills",
